@@ -9,7 +9,7 @@ namespace homeWorkSixteenPowerNumberTwo
             int number;
             int minNumber = 4;
             int maxNumber = 100;
-            int numberPower = 2;
+            int numberPower = 1;
             int numberPowerTwo = 2;
             int countPowerNumber = 0;
 
